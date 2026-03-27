@@ -1,0 +1,7 @@
+# requirements.txt
+colorama==0.4.6
+cryptography==41.0.7
+pycryptodome==3.19.0
+requests==2.31.0
+termcolor==2.3.0
+tqdm==4.66.1
