@@ -11,6 +11,22 @@
 
 ---
 
+## 📦 Install Required Dependencies
+
+Before using this project, install the required Android signing tools:
+
+```bash
+sudo apt update
+
+# Install zipalign
+sudo apt install zipalign
+
+# Install apksigner
+sudo apt install apksigner
+```
+
+> **Note:** These tools are required for aligning and signing APK files before deployment.
+
 ## 🌟 Features
 
 ### 🔥 Core Features
