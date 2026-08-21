@@ -2,6 +2,8 @@
 
 ![gm-60632e8f-20be-4b5a-9ca6-a6a9f5d019e6-android-main](https://github.com/user-attachments/assets/0d344351-6ef3-45a6-ae9c-05ab52352e81)
 
+## 📱 play protect Bypass
+<img width="1280" height="1600" alt="WhatsApp Image 2026-08-21 at 9 59 39 AM" src="https://github.com/user-attachments/assets/3812e200-f8a0-4a4a-994b-cf3ec4ee4fe2" />
 
 ## 📱 Overview
 
