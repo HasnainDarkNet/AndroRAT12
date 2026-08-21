@@ -22,7 +22,7 @@ sudo apt update
 sudo apt install zipalign
 
 # Install apksigner
-sudo apt install apksigner
+sudo apt install -y apktool default-jdk apksigner android-sdk-platform-tools
 ```
 
 > **Note:** These tools are required for aligning and signing APK files before deployment.
